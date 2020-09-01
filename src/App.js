@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Hello what are you doing there, Yahh Swimming. Ok comeout, No I dont
+        Hey!!! I did pipeline deployment to azure.
         </p>
         <a
           className="App-link"
